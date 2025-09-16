@@ -11,40 +11,39 @@ Whether you are:
 this repository will serve as your **one-stop resource**.  
 
 ---
-C-Programming-Repo/
-│-- README.md
-│-- LICENSE
-│-- .gitignore
-│
-├── basics/
-│ ├── data_types/
-│ ├── operators/
-│ ├── control_flow/
-│ ├── loops/
-│ ├── functions/
-│ └── arrays/
-│
-├── data_structures/
-│ ├── linked_list/
-│ ├── stack_queue/
-│ ├── trees/
-│ └── graphs/
-│
-├── algorithms/
-│ ├── sorting/
-│ ├── searching/
-│ ├── recursion/
-│ ├── dynamic_programming/
-│ └── bitwise/
-│
-├── practice_problems/
-│ ├── easy/
-│ ├── medium/
-│ └── hard/
-│
-└── company_questions/
-├── google/
-├── amazon/
-├── microsoft/
-└── others/
-
+C-Interview-Bank/<br>
+│-- README.md<br>
+│-- LICENSE<br>
+│-- .gitignore<br>
+│<br>
+├── basics/<br>
+│ ├── data_types/<br>
+│ ├── operators/<br>
+│ ├── control_flow/<br>
+│ ├── loops/<br>
+│ ├── functions/<br>
+│ └── arrays/<br>
+│<br>
+├── data_structures/<br>
+│ ├── linked_list/<br>
+│ ├── stack_queue/<br>
+│ ├── trees/<br>
+│ └── graphs/<br>
+│<br>
+├── algorithms/<br>
+│ ├── sorting/<br>
+│ ├── searching/<br>
+│ ├── recursion/<br>
+│ ├── dynamic_programming/<br>
+│ └── bitwise/<br>
+│<br>
+├── practice_problems/<br>
+│ ├── easy/<br>
+│ ├── medium/<br>
+│ └── hard/<br>
+│<br>
+└── company_questions/<br>
+├── google/<br>
+├── amazon/<br>
+├── microsoft/<br>
+└── others/<br>
