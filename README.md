@@ -47,3 +47,12 @@ C-Interview-Bank/<br>
 ├── amazon/<br>
 ├── microsoft/<br>
 └── others/<br>
+
+Each folder contains **well-commented `.c` files** with explanations, input/output examples, and complexity analysis (where applicable).  
+
+---
+ 
+### 1️⃣ Clone this Repository  
+```bash
+git clone https://github.com/YourUsername/C-Interview-Bank.git
+cd C-Interview-Bank
