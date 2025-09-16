@@ -11,5 +11,40 @@ Whether you are:
 this repository will serve as your **one-stop resource**.  
 
 ---
-
+C-Programming-Repo/
+│-- README.md
+│-- LICENSE
+│-- .gitignore
+│
+├── basics/
+│ ├── data_types/
+│ ├── operators/
+│ ├── control_flow/
+│ ├── loops/
+│ ├── functions/
+│ └── arrays/
+│
+├── data_structures/
+│ ├── linked_list/
+│ ├── stack_queue/
+│ ├── trees/
+│ └── graphs/
+│
+├── algorithms/
+│ ├── sorting/
+│ ├── searching/
+│ ├── recursion/
+│ ├── dynamic_programming/
+│ └── bitwise/
+│
+├── practice_problems/
+│ ├── easy/
+│ ├── medium/
+│ └── hard/
+│
+└── company_questions/
+├── google/
+├── amazon/
+├── microsoft/
+└── others/
 
