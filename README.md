@@ -54,5 +54,5 @@ Each folder contains **well-commented `.c` files** with explanations, input/outp
  
 ### 1️⃣ Clone this Repository  
 ```bash
-git clone https://github.com/YourUsername/C-Interview-Bank.git
+git clone https://github.com/Adithiyaa22/C-Interview-Bank.git
 cd C-Interview-Bank
